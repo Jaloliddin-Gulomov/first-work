@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Secular+One&display=swap');
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.back {
+    width: 700px;
+    min-height: 100vh;
+
+}
+
+.nav {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+
+}
+
+ul {
+    display: flex;
+
+}
+
+li {
+    text-transform: capitalize;
+    font-family: 'Heebo', sans-serif;
+    font-size: 15px;
+    margin-right: 25px;
+}
+
+h2 {
+    font-family: 'Heebo', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    color: #21243D;
+    line-height: 35px;
+}
+
+.text {
+    width: 350px;
+
+
+}
+
+.img1 {
+    height: 150px;
+}
+
+p {
+    margin: 15px 0px;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #21243D;
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    padding-bottom: 35px;
+}
+
+.btn {
+    background-color: #FF6464;
+    border-radius: 2px;
+    border: 1px solid #FF6464;
+    font-family: 'Heebo', sans-serif;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 500;
+    width: 150px;
+}
+
+.menu2 {
+    background-color: #EDF7FA;
+    height: 250px;
+    padding: 15px 0px;
+
+}
+
+.ul2 {
+    padding-right: 40px;
+    padding-left: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.li2 {
+    color: #21243D;
+    font-family: 'Heebo', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Heebo', sans-serif;
+    color: #00A8CC;
+}
+
+.box {
+    width: 270px;
+    height: 200px;
+    background-color: #FFFFFF;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.box-text {
+    color: #21243D;
+    font-family: 'Heebo', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 15px 15px;
+}
+
+.box-text2 {
+    color: #21243D;
+    font-family: 'Heebo', sans-serif;
+    font-size: 13px;
+    margin: 15px;
+}
+
+.box-text3 {
+    color: #21243D;
+    font-family: 'Heebo', sans-serif;
+    font-size: 11px;
+    margin: 15px;
+    line-height: 20px;
+}
+.menu3{
+    
+}
+.last{
+    color: #21243D;
+    font-family: 'Heebo', sans-serif;
+    font-size: 16px;
+    margin: 20px 70px;
+}
+.item{
+    display: flex;
+    margin: 20px 70px;
+}
+.img2{
+    width: 150px;
+    height: 130px;
+}
+.item-text{
+    color: #21243D;
+    font-family: 'Heebo', sans-serif;
+    font-size: 18px;
+    margin-top: -1px;
+    margin: 0px 15px;
+    
+}
+.item-btn{
+    width: 60px;
+    height: 20px;
+    background-color: #142850;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Heebo', sans-serif;
+    font-size: 13px;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+.txt{
+   
+    margin-right: 50px;
+}
+.dash{
+    color: #8695A4;
+    font-family: 'Heebo', sans-serif;
+    font-size: 18px;
+    margin-left: 15px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    height: 22px;
+    margin-top: 50px;
+    gap: 30px;
+}
+.icon-text{
+    text-align: center;
+}
